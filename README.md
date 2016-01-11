@@ -1,2 +1,2 @@
 # population-ecology-virtual-lab-ii-au
-This repository holds the sources of Population Ecology Virtual Lab II developed by Amrita University
+This repository holds the sources of Population Ecology Virtual Lab II developed by <a href="https://www.amrita.edu/create" target="_blank">AmritaCREATE</a>, Amrita University
